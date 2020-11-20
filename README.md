@@ -2,8 +2,8 @@
 
 ## Trybe - Exploring Protocols
 
-[link do repositorio original](https://github.com/tryber/sd-03-project-exploring-the-protocols)
-[meu PR](https://github.com/tryber/sd-03-project-exploring-the-protocols/pull/13)
+ - [link do repositorio original](https://github.com/tryber/sd-03-project-exploring-the-protocols)
+ - [meu PR](https://github.com/tryber/sd-03-project-exploring-the-protocols/pull/13)
 
 ### Objetivo
 Treinar e avaliar as habilidades recém adquiridas sobre
